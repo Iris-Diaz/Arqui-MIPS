@@ -1,0 +1,1 @@
+El proyecto  consiste en el desarrollo de un pipeline MIPS de 5 etapas, junto con un decodificador de instrucciones en Python capaz de traducir un conjunto extendido de instrucciones MIPS a su representación binaria. Dicho binario será utilizado para precargar la memoria de instrucciones del procesador diseñado en Verilog.
